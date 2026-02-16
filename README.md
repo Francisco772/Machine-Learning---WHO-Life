@@ -1,14 +1,14 @@
-# Machine-Learning---WHO-Life
-End-to-end ML pipeline for WHO-LIFE: Unsupervised K-Means clustering to identify global lifestyle profiles &amp; supervised Gradient Boosting to predict segments. Features EDA, PCA, KNN Imputation, &amp; GridSearch tuning. Validated via 10-fold Stratified CV for robust evaluation of health, financial &amp; behavioral patterns.
 
 # 🌍 WHO-LIFE: Global Lifestyle Segmentation & Prediction
+
+End-to-end ML pipeline for WHO-LIFE: Unsupervised K-Means clustering to identify global lifestyle profiles &amp; supervised Gradient Boosting to predict segments. Features EDA, PCA, KNN Imputation, &amp; GridSearch tuning. Validated via 10-fold Stratified CV for robust evaluation of health, financial &amp; behavioral patterns.
 
 ## 📌 Project Overview
 Developed for the **WHO-LIFE Initiative**, this project analyzes individual-level data from global citizens to identify distinct lifestyle patterns and build a predictive model for targeted public health interventions.
 
 By integrating health, financial, and behavioral data with external socioeconomic indicators, we successfully segmented the population into actionable clusters and built a high-performance classifier to predict these segments for new individuals.
 
-## 👥 Team (Group 07)
+## 👥 Team 
 * **António Santos**
 * **Ashool Lakhani**
 * **Francisco Oliveira**

@@ -9,7 +9,7 @@ By integrating health, financial, and behavioral data, we successfully segmented
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 * **`Descriptive Modeling.ipynb`**: Unsupervised learning pipeline. Includes EDA, data cleaning, and **K-Means Clustering** to define lifestyle profiles.
 * **`Predictive Modeling.ipynb`**: Supervised learning pipeline. Implements **Gradient Boosting**, Random Forest, and SVM with hyperparameter tuning.
 * **`ML_Group07_Report.pdf`**: Final technical report detailing methodology, cluster definitions, and policy recommendations.
@@ -17,7 +17,7 @@ By integrating health, financial, and behavioral data, we successfully segmented
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 ### 1. Data Engineering & Preprocessing
 * **Missing Data:** Applied **KNN Imputation** to fill gaps while preserving local data structures.
@@ -41,7 +41,7 @@ We built a robust classification engine to predict the identified lifestyle clus
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 * **Best Model:** **Gradient Boosting Classifier** achieved the highest accuracy and stability.
 * **Cluster Insights:**
     * **Wellness-Oriented:** High fitness engagement, balanced sleep, moderate screen time.
@@ -50,7 +50,7 @@ We built a robust classification engine to predict the identified lifestyle clus
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python
 * **Libraries:** `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Seaborn`.
 ---
